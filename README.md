@@ -14,13 +14,13 @@ This project analyzes sentiment trends in Reddit discussions related to **sustai
 ## 📂 Project Structure
 ```
 📦 sustainability-sentiment-analysis
-├── .gitignore             # Ensures API keys and sensitive data are not pushed
-├── .env                   # Stores Reddit API credentials (excluded from GitHub)
-├── main.py                # Scrapes Reddit data and saves it to CSV
-├── sentiment_analysis.py   # Performs sentiment analysis and visualization
-├── requirements.txt        # Lists all required dependencies
-├── README.md              # Documentation (this file)
-└── reddit_posts.csv        # Scraped Reddit data (ignored in GitHub)
+├── .gitignore            
+├── .env                  
+├── main.py               
+├── sentiment_analysis.py   
+├── requirements.txt       
+├── README.md             
+└── reddit_posts.csv     
 ```
 
 ## 🚀 Installation & Setup
