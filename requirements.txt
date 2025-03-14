@@ -1,0 +1,9 @@
+praw
+pandas
+matplotlib
+seaborn
+nltk
+textblob
+vaderSentiment
+python-dotenv
+tabulate
